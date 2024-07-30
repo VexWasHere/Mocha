@@ -1,2 +1,2 @@
 # Mocha
-The clippy of 2024
+Your new assistant
